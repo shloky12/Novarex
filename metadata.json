@@ -1,0 +1,6 @@
+{
+  "name": "NOVAREX Luxury Hypercars",
+  "description": "Born From Speed. Perfected By Precision. The official landing page for NOVAREX, a European luxury hypercar brand.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
